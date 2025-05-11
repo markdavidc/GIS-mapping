@@ -38,7 +38,7 @@ I found these websites useful in developing this software:
 
 * [chatgpt](https://chatgpt.com/)
 * [arcgis all pages](https://www.arcgis.com/index.html)
-*[w3school for JavaScript](https://www.w3schools.com/js/js_intro.asp)
+* [w3school for JavaScript](https://www.w3schools.com/js/js_intro.asp)
 
 ## Future Work
 
