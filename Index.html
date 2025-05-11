@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Famous Ski Resorts Map</title>
+  <!-- ArcGIS stylesheet for default map styling -->
+  <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
+  <link rel="stylesheet" href="Style.css">
+  <!-- ArcGIS API library -->
+  <script src="https://js.arcgis.com/4.5/"></script>
+  <script src="Script.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Famous Ski Resorts and mountain bike trails in the U.S.</h1>
+  </header>
+  <div id="layerToggle">
+  <label><input type="checkbox" id="skiToggle" checked> Show Ski Resorts</label>
+  <label><input type="checkbox" id="bikeToggle" checked> Show Bike Trails</label>
+  </div>
+  <div id="viewDiv"></div>
+</body>
+</html>
